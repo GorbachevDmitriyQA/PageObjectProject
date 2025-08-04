@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "y6ZPnmMqz2ypLamtkAhBaAu32GnqblQQ0CrjPdUL+xeaVHo8rQVjfrSAEXLS8YGSxJDSxy1j4N5L+K5zsUyoJw==",
+  "dgSpecHash": "XOcsGgnbrZSM1KF80BC29V0HQ3C31+a4xzcTNvJYu8TWvjwWB+yuvcd2SSuqaPU2sJPJDxTZZafeUM5//Gokcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dmitry\\source\\repos\\GorbachevDmitriyQA\\NewProject\\TestProject1\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,9 @@
     "C:\\Users\\Dmitry\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\Dmitry\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\Dmitry\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Dmitry\\.nuget\\packages\\selenium.support\\4.34.0\\selenium.support.4.34.0.nupkg.sha512",
+    "C:\\Users\\Dmitry\\.nuget\\packages\\selenium.webdriver\\4.34.0\\selenium.webdriver.4.34.0.nupkg.sha512",
+    "C:\\Users\\Dmitry\\.nuget\\packages\\selenium.webdriver.chromedriver\\138.0.7204.18300\\selenium.webdriver.chromedriver.138.0.7204.18300.nupkg.sha512",
     "C:\\Users\\Dmitry\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []

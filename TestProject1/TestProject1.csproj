@@ -20,4 +20,10 @@
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="138.0.7204.18300" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="TestData\CheckContextSearching.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

@@ -1,11 +1,4 @@
-﻿using OpenQA.Selenium.DevTools.V136.Storage;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Demos.DataModels
+﻿namespace TestProject1.DataModels
 {
     /// <summary>
     /// Модель данных для работы со страницей контекстного поиска

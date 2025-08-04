@@ -97,3 +97,10 @@ C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProj
 C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\obj\Debug\net8.0\TestProject1.pdb
 C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
+C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
+C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Dmitry\source\repos\GorbachevDmitriyQA\NewProject\TestProject1\TestProject1\bin\Debug\net8.0\TestData\CheckContextSearching.xml

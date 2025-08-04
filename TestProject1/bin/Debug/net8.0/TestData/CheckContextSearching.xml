@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSearchData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<SearchData>
+		<TextForSearching>Как QA гарантирует безопасность ваших денег?</TextForSearching>
+		<ExpectedFirstPublicationHeader>Как QA гарантирует безопасность ваших денег?</ExpectedFirstPublicationHeader>
+		<ActiveSearchCategory>ПУБЛИКАЦИИ</ActiveSearchCategory>
+	</SearchData>
+</ArrayOfSearchData>
